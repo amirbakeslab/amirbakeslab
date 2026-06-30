@@ -5,7 +5,7 @@
 Core Engineer at **[Bread](https://aibread.com)**, building the rails for the agent-native web.
 
 - **[OpenLens](https://openlens.com)** — an AI-visibility tool designed to help you **observe, control, and take action** on the agents already impacting your day-to-day operations.
-- **OpenLens CLI** — a user-personified agent harness in Go, with real OAuth and a chat-first interface.
+- **OpenLens CLI** — a user-personalized agent harness in Go, with real OAuth and a chat-first interface.
 - **Agent Honeypot** - a universal WebMCP agent harness that allows AI agents to explore the web, ***freely***, without restriction.
 
 ### 🤗 Open Models — Hugging Face
